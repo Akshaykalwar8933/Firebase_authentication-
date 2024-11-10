@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840791413143",
+    "project_id": "learn-authentication-9e5c3",
+    "storage_bucket": "learn-authentication-9e5c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840791413143:android:d79ec6059a409aff9cf4d2",
+        "android_client_info": {
+          "package_name": "com.akshay.learn_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANOgc_255lOpyemoG4UjetOyZbTuo20vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
